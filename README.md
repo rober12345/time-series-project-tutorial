@@ -2,10 +2,9 @@
 # Time Series Project Tutorial
 <!-- endhide -->
 
-- 
-- 
-- 
-- 
+- This is the opportunity to work on a company's real time problem.
+- You will put on practice a lot of skills and your time series new knowledge to try improving a default prediction model.
+- You can use the resources provided in the course, Arima method, Prophet method, and of course continue looking for additional resources if you wish to have a different approach to the problem.
 
 ## 🌱  How to start this project
 
