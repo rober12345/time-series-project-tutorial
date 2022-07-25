@@ -9,5 +9,5 @@
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
-	"description" : "Use your new skills to help American Express improve their credit card default model."
+	"description" : "Use your new skills to help American Express improve their default prediction model."
 }
