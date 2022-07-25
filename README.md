@@ -16,7 +16,7 @@ You will not be forking this time, please take some time to read this instructio
 
 ## 🚛 How to deliver this project
 
-Once you are finished creating your time series model, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you are finished creating your default prediction model, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
