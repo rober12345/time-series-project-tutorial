@@ -1,57 +1,43 @@
 <!-- hide -->
-# Time Series Project Tutorial
+# Time series
 <!-- endhide -->
 
-- This is the opportunity to work on a company's real time problem.
-- You will put into practice a lot of skills and your time series new knowledge to try improving a default prediction model.
-- You can use the resources provided in the course, the Arima method, Prophet method, and of course continue looking for additional resources if you wish to have a different approach to the problem.
+- Understand a new dataset.
+- Analyze the time series and study its characteristics.
+- Train a model to predict the "Default" of American Express.
 
 ## 🌱  How to start this project
 
 You will not be forking this time, please take some time to read these instructions:
 
 1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Open the recently created repository on Gitpod by using the [Gitpod button extension](https://www.gitpod.io/docs/browser-extension/).
-3. Once Gitpod VSCode has finished opening you start your project following the Instructions below.
+2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you are finished creating your default prediction model, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you have uploaded your notebook to Kaggle, upload it to your repository, push it to your repository fork and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
-**American Express Default Prediction**
+### "Default" detection system
 
-This will be a very exciting project because we will enroll in a Kaggle competition! This time you will not only deliver a solution link for the bootcamp, you will also be able to win cash prizes and increase your possibilities to be seen by a huge company, in this case, American Express!
+This project is going to be done at [Kaggle](https://www.kaggle.com/). Kaggle is known for organizing data science competitions in which individuals and teams can compete to create the best model on a variety of tasks.
 
-Let's go step by step on how to do this project:
+Specifically, we will explore a competition that has now ended, which rewarded the top performers with $100,000, distributed to the top four solutions.
 
-**Step 1:**
+#### Step 1: Register or log in to Kaggle
 
-If you don't have it yet, [create an account in kaggle.com](https://www.kaggle.com/)
+The first step to participate in a competition is to have a Kaggle account. Registration is very simple and versatile.
 
-**Step 2:**
+#### Step 2: Participate in the competition
 
-Go to the following link: https://www.kaggle.com/competitions/amex-default-prediction .
+Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/amex-default-prediction) you can access the competition where the purpose is to predict whether a customer will default in the future.
 
-This is an amazing real time competition launched by American Express on default prediction. The purpose is to predict if a customer will default in the future.
+Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
 
-Read the Overview information about the description of the problem, the evaluation metrics, the timeline and the prizes. Once you get an overview of the competition, you can click on the button "Join the competition" and accept the terms. Now you are in!
+Follow these tips:
 
-As you can see, the deadline to submit the prediction results is August 24th, 2022.
-
-Also, you may have noticed the prizes which go from $40,000 to 1st place in the leaderboard to $10,000 for 4th place in the leaderboard. In addition to cash prizes to the top winners, American Express is hiring!
-
-Highly ranked contestants who indicate their interest will be considered by American Express for interviews.
-
-**Step 3:**
-
-There is no need to repeat the work. Use Kaggle notebooks, submit your results to Kaggle, check your position on the leaderboard, and then download your finished notebook to add it to your Project repo in Github.
-
-> Don't forget in Github to follow the structure you already know by adding your pipelines to the app.py file and saving the final model in the 'models' folder.
-
-**Step 4:**
-
-In the course, add the link to your Kaggle competition submitted notebook.
-
-> Feel free to keep improving your score and position in the competition until the deadline date.
+- Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
+- Whatever model you choose, be sure to process and explore the data as studied in past modules.
+- Trial and error! Don't pretend to get the best model the first time, keep trying.

@@ -1,67 +1,43 @@
 <!-- hide -->
-# Tutorial de proyecto de Serie Temporal
+# Series temporales
 <!-- endhide -->
 
-- Esta es la oportunidad de trabajar en un problema real de una empresa.
-- Pondrás en práctica muchas habilidades y tu nuevo conocimiento de series de tiempo para intentar mejorar un modelo de predicción predeterminado.
-- Puedes usar los recursos proporcionados en el curso, el método Arima, el método Prophet y, por supuesto, seguir buscando recursos adicionales si desea tener un enfoque diferente para el problema.
+- Comprender un dataset nuevo.
+- Analizar la serie temporal y estudiar sus características.
+- Entrenar un modelo para predecir el "Default" de American Express.
 
-## 🌱 ¿Cómo comenzar este proyecto?
+## 🌱  Cómo iniciar este proyecto
 
-Esta vez no harás un fork, por favor toma un tiempo para leer estas instrucciones:
+Esta vez no se hará Fork, tómate un tiempo para leer estas instrucciones:
 
-1. Crea un nuevo repositorio basado en el [proyecto de machine learning](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) haciendo [clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
-2. Abre el repositorio creado recientemente en Gitpod usando la [extensión del botón de Gitpod](https://www.gitpod.io/docs/browser-extension/).
-3. Una vez que Gitpod VSCode haya terminado de abrir, comienza tu proyecto siguiendo las instrucciones a continuación.
+1. Crear un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
+2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
+3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que hayas terminado de crear tu modelo de predicción predeterminado, asegúrate de confirmar tus cambios, hazle push a tu repositorio y dirígite a 4Geeks.com para subir el enlace del repositorio.
+Una vez que hayas subido tu notebook a Kaggle, súbelo a tu repositorio, hazle "push" al fork de tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
 ## 📝 Instrucciones
 
-**Predicción por defecto de American Express**
+### Sistema de detección de "Default"
 
-Este será un proyecto muy emocionante porque nos inscribiremos en una competencia de Kaggle. Esta vez no solo entregarás un enlace de solución para el bootcamp, ¡también podrás ganar premios en efectivo y aumentar tus posibilidades de ser visto por una gran empresa, en este caso, American Express!
+Este proyecto se va a realizar en [Kaggle](https://www.kaggle.com/). Kaggle es conocida por organizar competencias de ciencia de datos en las que las personas y los equipos pueden competir para crear el mejor modelo en una variedad de tareas.
 
-Vamos paso a paso sobre cómo hacer este proyecto:
+En concreto, exploraremos una competición que ya finalizó, y que premiaba a los mejores resultados con 100.000 dólares, repartidos a las mejores cuatro soluciones.
 
-**Paso 1:**
+#### Paso 1: Regístrate o inicia sesión en Kaggle
 
-Si aún no lo tienes, [crea una cuenta en kaggle.com](https://www.kaggle.com/)
+El primer paso para participar en una competición es tener una cuenta en Kaggle. El registro es muy sencillo y versátil.
 
-**Paso 2:**
+#### Paso 2: Participa en la competición
 
-Ve al siguiente enlace: https://www.kaggle.com/competitions/amex-default-prediction.
+Aunque esté cerrada, todavía puedes subir tus soluciones y compararte con el resto de competidores en el ranking. Pinchando [aquí](https://www.kaggle.com/competitions/amex-default-prediction) puedes acceder a la competición en la que el propósito es predecir si un cliente incumplirá en el futuro.
 
-Esta es una increíble competencia en tiempo real lanzada por American Express sobre predicción por defecto. El propósito es predecir si un cliente incumplirá en el futuro.
+Lee la información sobre la descripción del problema, las métricas de evaluación, el cronograma y los premios. Una vez que tengas una visión general de la competencia, prepara el notebook con el desarollo del código y súbelo, compárate con el resto de desarrolladores.
 
-Lee la información de Resumen sobre la descripción del problema, las métricas de evaluación, el cronograma y los premios. Una vez que tengas una visión general de la competencia, puede hacer clic en el botón "Unirse a la competencia" y aceptar los términos. ¡Ahora estás dentro!
+Sigue los siguientes consejos:
 
-Como puedes ver, la fecha límite para enviar los resultados de predicción es el 24 de agosto de 2022.
-
-También puedes haber notado los premios que van desde $40,000 al 1er lugar en la tabla de clasificación hasta $ 10,000 para el 4to lugar en la tabla de clasificación. Además de los premios en efectivo para los mejores ganadores, ¡American Express está contratando!
-
-Los concursantes altamente calificados que indiquen su interés serán considerados por American Express para entrevistas.
-
-**Paso 3:**
-
-No hay necesidad de repetir el trabajo. Utilice los notebooks de Kaggle, envía tus resultados a Kaggle, verifica tu posición en la tabla de clasificación y luego descarga tu notebook terminado para agregarlo a su repositorio de proyectos en Github.
-
-> No olvides en Github seguir la estructura que ya conoces agregando tus tuberías al archivo app.py y guardando el modelo final en la carpeta 'models'.
-
-**Paso 4:**
-
-En el curso, agrega el enlace a tu notebook de competencia Kaggle presentado.
-
-> No dudes en seguir mejorando tu puntuación y posición en la competencia hasta la fecha límite.
-
-
-
-
-
-
-
-
-
-
+- Observa las soluciones propuestas por otros desarrolladores. Algunos utilizan series temporales, otros algoritmos supervisados como regresiones lineales, árboles de decisión, etc. Investiga qué modelo puede funcionar mejor para este caso de uso y explora todas las opciones.
+- Elijas el modelo que elijas, asegúrate de procesar y explorar los datos según se ha estudiado en los módulos pasados.
+- Ensayo y error! No pretendas obtener el mejor modelo a la primera, sigue intentándolo.
