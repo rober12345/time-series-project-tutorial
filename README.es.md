@@ -1,30 +1,30 @@
 <!-- hide -->
-# Series temporales
+# Series temporales - Guía paso a paso
 <!-- endhide -->
 
 - Comprender un dataset nuevo.
 - Analizar la serie temporal y estudiar sus características.
-- Entrenar un modelo para predecir el "Default" de American Express.
+- Entrenar un modelo para predecir la cantidad de agua en distintas zonas.
 
 ## 🌱  Cómo iniciar este proyecto
 
-Esta vez no se hará Fork, tómate un tiempo para leer estas instrucciones:
+Sigue las siguientes instrucciones:
 
-1. Crear un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
+1. Crea un nuevo repositorio basado en el [proyecto de Machine Learing](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) [haciendo clic aquí](https://github.com/4GeeksAcademy/machine-learning-python-template).
 2. Abre el repositorio creado recientemente en Codespace usando la [extensión del botón de Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Una vez que el VSCode del Codespace haya terminado de abrirse, comienza tu proyecto siguiendo las instrucciones a continuación.
 
 ## 🚛 Cómo entregar este proyecto
 
-Una vez que hayas subido tu notebook a Kaggle, súbelo a tu repositorio, hazle "push" al fork de tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
+Una vez que hayas terminado de resolver el caso práctico, asegúrate de confirmar tus cambios, haz push a tu repositorio y ve a 4Geeks.com para subir el enlace del repositorio.
 
 ## 📝 Instrucciones
 
-### Sistema de detección de "Default"
+### Sistema de detección de agua
 
 Este proyecto se va a realizar en [Kaggle](https://www.kaggle.com/). Kaggle es conocida por organizar competencias de ciencia de datos en las que las personas y los equipos pueden competir para crear el mejor modelo en una variedad de tareas.
 
-En concreto, exploraremos una competición que ya finalizó, y que premiaba a los mejores resultados con 100.000 dólares, repartidos a las mejores cuatro soluciones.
+En concreto, exploraremos una competición que ya finalizó, y que premiaba a los mejores resultados con 25.000 dólares, repartidos a las mejores cuatro soluciones.
 
 #### Paso 1: Regístrate o inicia sesión en Kaggle
 
@@ -41,3 +41,5 @@ Sigue los siguientes consejos:
 - Observa las soluciones propuestas por otros desarrolladores. Algunos utilizan series temporales, otros algoritmos supervisados como regresiones lineales, árboles de decisión, etc. Investiga qué modelo puede funcionar mejor para este caso de uso y explora todas las opciones.
 - Elijas el modelo que elijas, asegúrate de procesar y explorar los datos según se ha estudiado en los módulos pasados.
 - Ensayo y error! No pretendas obtener el mejor modelo a la primera, sigue intentándolo.
+
+> NOTA: Solución: https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb
