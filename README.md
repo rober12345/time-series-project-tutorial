@@ -1,14 +1,14 @@
 <!-- hide -->
-# Time series
+# Time series - Step by step guide
 <!-- endhide -->
 
 - Understand a new dataset.
 - Analyze the time series and study its characteristics.
-- Train a model to predict the "Default" of American Express.
+- Train a model to predict the amount of water in different areas.
 
 ## 🌱  How to start this project
 
-You will not be forking this time, please take some time to read these instructions:
+Follow the instructions below:
 
 1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
@@ -16,15 +16,15 @@ You will not be forking this time, please take some time to read these instructi
 
 ## 🚛 How to deliver this project
 
-Once you have uploaded your notebook to Kaggle, upload it to your repository, push it to your repository fork and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
-### "Default" detection system
+### Water detection system
 
 This project is going to be done at [Kaggle](https://www.kaggle.com/). Kaggle is known for organizing data science competitions in which individuals and teams can compete to create the best model on a variety of tasks.
 
-Specifically, we will explore a competition that has now ended, which rewarded the top performers with $100,000, distributed to the top four solutions.
+Specifically, we will explore a competition that has now ended, which rewarded the top performers with $25,000, distributed to the top four solutions.
 
 #### Step 1: Register or log in to Kaggle
 
@@ -41,3 +41,5 @@ Follow these tips:
 - Look at the solutions proposed by other developers. Some use time series, others use supervised algorithms such as linear regression, decision trees, etc. Investigate which model might work best for this use case and explore all options.
 - Whatever model you choose, be sure to process and explore the data as studied in past modules.
 - Trial and error! Don't pretend to get the best model the first time, keep trying.
+
+> NOTE: Solution: https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb
