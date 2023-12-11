@@ -32,7 +32,7 @@ El primer paso para participar en una competición es tener una cuenta en Kaggle
 
 #### Paso 2: Participa en la competición
 
-Aunque esté cerrada, todavía puedes subir tus soluciones y compararte con el resto de competidores en el ranking. Pinchando [aquí](https://www.kaggle.com/competitions/amex-default-prediction) puedes acceder a la competición en la que el propósito es predecir si un cliente incumplirá en el futuro.
+Aunque esté cerrada, todavía puedes subir tus soluciones y compararte con el resto de competidores en el ranking. Pinchando [aquí](https://www.kaggle.com/competitions/acea-water-prediction) puedes acceder a la competición en la que el propósito es predecir si un cliente incumplirá en el futuro.
 
 Lee la información sobre la descripción del problema, las métricas de evaluación, el cronograma y los premios. Una vez que tengas una visión general de la competencia, prepara el notebook con el desarollo del código y súbelo, compárate con el resto de desarrolladores.
 

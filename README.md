@@ -32,7 +32,7 @@ The first step to participate in a competition is to have a Kaggle account. Regi
 
 #### Step 2: Participate in the competition
 
-Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/amex-default-prediction) you can access the competition where the purpose is to predict whether a customer will default in the future.
+Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction) you can access the competition where the purpose is to predict whether a customer will default in the future.
 
 Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
 
