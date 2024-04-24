@@ -10,5 +10,5 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Use your new skills to help American Express improve their default prediction model."
+	"description" : "This project focuses on using time series analysis techniques for water detection."
 }
