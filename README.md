@@ -6,17 +6,17 @@
 - Analyze the time series and study its characteristics.
 - Train a model to predict the amount of water in different areas.
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Follow the instructions below:
 
-1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template/generate) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template).
+1. Create a new repository based on [machine learning project](https://github.com/4GeeksAcademy/machine-learning-python-template) by [clicking here](https://github.com/4GeeksAcademy/machine-learning-python-template/generate).
 2. Open the newly created repository in Codespace using the [Codespace button extension](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace-for-a-repository#creating-a-codespace-for-a-repository).
 3. Once the Codespace VSCode has finished opening, start your project by following the instructions below.
 
 ## 🚛 How to deliver this project
 
-Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push them to your repository, and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
@@ -32,9 +32,9 @@ The first step to participate in a competition is to have a Kaggle account. Regi
 
 #### Step 2: Participate in the competition
 
-Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction) you can access the competition where the purpose is to predict the amount of water.
+Although it is closed, you can still upload your solutions and compare yourself with the rest of the competitors in the ranking. By clicking [here](https://www.kaggle.com/competitions/acea-water-prediction), you can access the competition, where the purpose is to predict the amount of water.
 
-Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it, compare yourself with the other developers.
+Read the information about the problem description, evaluation metrics, timeline and prizes. Once you have an overview of the competition, prepare the notebook with the code development and upload it. Compare yourself with the other developers.
 
 Follow these tips:
 
@@ -42,4 +42,4 @@ Follow these tips:
 - Whatever model you choose, be sure to process and explore the data as studied in past modules.
 - Trial and error! Don't pretend to get the best model the first time, keep trying.
 
-> NOTE: Solution: https://github.com/4GeeksAcademy/time-series-project-tutorial/blob/main/solution.ipynb
+> Note: We also incorporated the solution samples on `./solution.ipynb` that we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
